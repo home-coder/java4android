@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java4android.iml" filepath="$PROJECT_DIR$/java4android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libbelow/libbelow.iml" filepath="$PROJECT_DIR$/libbelow/libbelow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libboolean/libboolean.iml" filepath="$PROJECT_DIR$/libboolean/libboolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libclass/libclass.iml" filepath="$PROJECT_DIR$/libclass/libclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libexception/libexception.iml" filepath="$PROJECT_DIR$/libexception/libexception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libpaint/libpaint.iml" filepath="$PROJECT_DIR$/libpaint/libpaint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libtest/libtest.iml" filepath="$PROJECT_DIR$/libtest/libtest.iml" />
+    </modules>
+  </component>
+</project>
