@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/libboolean" />
             <option value="$PROJECT_DIR$/libclass" />
             <option value="$PROJECT_DIR$/libexception" />
+            <option value="$PROJECT_DIR$/libpackage" />
             <option value="$PROJECT_DIR$/libpaint" />
             <option value="$PROJECT_DIR$/libtest" />
           </set>
@@ -25,6 +26,7 @@
             <option value="$PROJECT_DIR$/libboolean" />
             <option value="$PROJECT_DIR$/libclass" />
             <option value="$PROJECT_DIR$/libexception" />
+            <option value="$PROJECT_DIR$/libpackage" />
             <option value="$PROJECT_DIR$/libpaint" />
             <option value="$PROJECT_DIR$/libtest" />
           </set>

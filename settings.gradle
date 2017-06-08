@@ -1,1 +1,1 @@
-include ':app', ':libboolean', ':libclass', ':libpaint', ':libexception', ':libtest', ':libbelow'
+include ':app', ':libboolean', ':libclass', ':libpaint', ':libexception', ':libtest', ':libbelow', ':libpackage'
