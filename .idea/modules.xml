@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/libboolean/libboolean.iml" filepath="$PROJECT_DIR$/libboolean/libboolean.iml" />
       <module fileurl="file://$PROJECT_DIR$/libclass/libclass.iml" filepath="$PROJECT_DIR$/libclass/libclass.iml" />
       <module fileurl="file://$PROJECT_DIR$/libexception/libexception.iml" filepath="$PROJECT_DIR$/libexception/libexception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liblistmap/liblistmap.iml" filepath="$PROJECT_DIR$/liblistmap/liblistmap.iml" />
       <module fileurl="file://$PROJECT_DIR$/libpackage/libpackage.iml" filepath="$PROJECT_DIR$/libpackage/libpackage.iml" />
       <module fileurl="file://$PROJECT_DIR$/libpaint/libpaint.iml" filepath="$PROJECT_DIR$/libpaint/libpaint.iml" />
       <module fileurl="file://$PROJECT_DIR$/libtest/libtest.iml" filepath="$PROJECT_DIR$/libtest/libtest.iml" />
